@@ -7,6 +7,7 @@ package no.knowit.chapter.jvm.pmatcher
   * you have fully applied the function to all of the parameters. But when you give only
   * a subset of the parameters to the function,
   * the result of the expression is a partially applied function.
+  * Source: https://alvinalexander.com/scala/how-to-use-partially-applied-functions-in-scala-syntax-examples
   */
 object Summer {
   def main(args: Array[String]): Unit = {
