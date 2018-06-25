@@ -16,5 +16,6 @@ object CurriedNextLevel {
 
   def line(a: Int, b: Int, x: Int): Int = a + x + b
 
-  def curriedLine: Int => Int => Int => Int = (line _).curried
+  //def curriedLine: Int => Int => Int => Int = (line _).curried
+  def curriedLine: Int => (Int => (Int => Int)) = (line _).curried
 }
