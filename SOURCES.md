@@ -7,3 +7,4 @@ Code taken from these sources:
 - https://www.grokacademy.com/lessons/demystifying-currying-and-partial-function-application/
 - https://danielwestheide.com/blog/2013/01/30/the-neophytes-guide-to-scala-part-11-currying-and-partially-applied-functions.html
 - https://danielwestheide.com/blog/2012/12/12/the-neophytes-guide-to-scala-part-4-pattern-matching-anonymous-functions.html
+- https://stackoverflow.com/questions/43197714/what-is-the-real-world-example-of-scalas-partially-applied-function#
